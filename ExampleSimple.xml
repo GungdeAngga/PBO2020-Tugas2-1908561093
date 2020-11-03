@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserData>
+  <Identity>
+  
+    <UserName>A. A. Gede Agung Angga Aditya</UserName>
+    <UserShortName>Angga Aditya</UserShortName>
+    
+    <TimeStamp>
+      <DateBuy>1-November-2020</DateBuy>
+    </TimeStamp>
+    
+  </Information>
+  
+<breakfast_menu>
+<food>
+    <name>Homestyle Breakfast</name>
+    <price>$7.22</price>
+    <description>
+    Two egg, bacon, toast or bread and lemon tea
+    </description>
+    <calories>690</calories>
+</food>
+
+</breakfast_menu>
