@@ -1,5 +1,5 @@
 # Tugas 2 PBO
-Contoh sederhana XML dan JSON Pengiriman data
+Contoh sederhana XML dan JSON 
 
 
 # Identitas 
