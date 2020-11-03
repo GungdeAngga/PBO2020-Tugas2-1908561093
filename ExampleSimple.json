@@ -1,0 +1,23 @@
+{
+    "userData": {
+        "fullName": "A. A. Gede Agung Angga Aditya",
+        "shortName": "Angga Aditya",
+        
+        "timeStamps": {
+            "dateBuy": "1-November-2020",
+        }
+    },
+    
+    "breakfast_menu": [
+        {
+          "food":[
+              {
+              "name": "Homestyle Breakfast",
+              "price": "$7.22",
+              "description": "Two egg, bacon, toast or bread and lemon tea",
+              "calories":"690",
+              }
+           ]
+        }
+    ]
+}
